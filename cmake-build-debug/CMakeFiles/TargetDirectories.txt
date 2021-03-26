@@ -1,0 +1,3 @@
+C:/Users/Extreme PC/Desktop/Marco/U III/Datos/Tarea extraclase 2/cmake-build-debug/CMakeFiles/Tarea_extraclase_2.dir
+C:/Users/Extreme PC/Desktop/Marco/U III/Datos/Tarea extraclase 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Extreme PC/Desktop/Marco/U III/Datos/Tarea extraclase 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
