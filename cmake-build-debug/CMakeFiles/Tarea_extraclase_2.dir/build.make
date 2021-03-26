@@ -89,19 +89,64 @@ CMakeFiles/Tarea_extraclase_2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_extraclase_2.dir/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\main.cpp" -o CMakeFiles\Tarea_extraclase_2.dir\main.cpp.s
 
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.obj: CMakeFiles/Tarea_extraclase_2.dir/flags.make
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.obj: ../Builder/Casa.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Tarea_extraclase_2.dir\Builder\Casa.cpp.obj -c "C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\Builder\Casa.cpp"
+
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\Builder\Casa.cpp" > CMakeFiles\Tarea_extraclase_2.dir\Builder\Casa.cpp.i
+
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\Builder\Casa.cpp" -o CMakeFiles\Tarea_extraclase_2.dir\Builder\Casa.cpp.s
+
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.obj: CMakeFiles/Tarea_extraclase_2.dir/flags.make
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.obj: ../Builder/Builder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Tarea_extraclase_2.dir\Builder\Builder.cpp.obj -c "C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\Builder\Builder.cpp"
+
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\Builder\Builder.cpp" > CMakeFiles\Tarea_extraclase_2.dir\Builder\Builder.cpp.i
+
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\Builder\Builder.cpp" -o CMakeFiles\Tarea_extraclase_2.dir\Builder\Builder.cpp.s
+
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.obj: CMakeFiles/Tarea_extraclase_2.dir/flags.make
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.obj: ../Builder/Director.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Tarea_extraclase_2.dir\Builder\Director.cpp.obj -c "C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\Builder\Director.cpp"
+
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\Builder\Director.cpp" > CMakeFiles\Tarea_extraclase_2.dir\Builder\Director.cpp.i
+
+CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\Builder\Director.cpp" -o CMakeFiles\Tarea_extraclase_2.dir\Builder\Director.cpp.s
+
 # Object files for target Tarea_extraclase_2
 Tarea_extraclase_2_OBJECTS = \
-"CMakeFiles/Tarea_extraclase_2.dir/main.cpp.obj"
+"CMakeFiles/Tarea_extraclase_2.dir/main.cpp.obj" \
+"CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.obj" \
+"CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.obj" \
+"CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.obj"
 
 # External object files for target Tarea_extraclase_2
 Tarea_extraclase_2_EXTERNAL_OBJECTS =
 
 Tarea_extraclase_2.exe: CMakeFiles/Tarea_extraclase_2.dir/main.cpp.obj
+Tarea_extraclase_2.exe: CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.obj
+Tarea_extraclase_2.exe: CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.obj
+Tarea_extraclase_2.exe: CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.obj
 Tarea_extraclase_2.exe: CMakeFiles/Tarea_extraclase_2.dir/build.make
 Tarea_extraclase_2.exe: CMakeFiles/Tarea_extraclase_2.dir/linklibs.rsp
 Tarea_extraclase_2.exe: CMakeFiles/Tarea_extraclase_2.dir/objects1.rsp
 Tarea_extraclase_2.exe: CMakeFiles/Tarea_extraclase_2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Tarea_extraclase_2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Extreme PC\Desktop\Marco\U III\Datos\Tarea extraclase 2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Tarea_extraclase_2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Tarea_extraclase_2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

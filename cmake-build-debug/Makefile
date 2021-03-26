@@ -142,6 +142,87 @@ Tarea_extraclase_2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_extraclase_2.dir\build.make CMakeFiles/Tarea_extraclase_2.dir/build
 .PHONY : Tarea_extraclase_2/fast
 
+Builder/Builder.obj: Builder/Builder.cpp.obj
+
+.PHONY : Builder/Builder.obj
+
+# target to build an object file
+Builder/Builder.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_extraclase_2.dir\build.make CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.obj
+.PHONY : Builder/Builder.cpp.obj
+
+Builder/Builder.i: Builder/Builder.cpp.i
+
+.PHONY : Builder/Builder.i
+
+# target to preprocess a source file
+Builder/Builder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_extraclase_2.dir\build.make CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.i
+.PHONY : Builder/Builder.cpp.i
+
+Builder/Builder.s: Builder/Builder.cpp.s
+
+.PHONY : Builder/Builder.s
+
+# target to generate assembly for a file
+Builder/Builder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_extraclase_2.dir\build.make CMakeFiles/Tarea_extraclase_2.dir/Builder/Builder.cpp.s
+.PHONY : Builder/Builder.cpp.s
+
+Builder/Casa.obj: Builder/Casa.cpp.obj
+
+.PHONY : Builder/Casa.obj
+
+# target to build an object file
+Builder/Casa.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_extraclase_2.dir\build.make CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.obj
+.PHONY : Builder/Casa.cpp.obj
+
+Builder/Casa.i: Builder/Casa.cpp.i
+
+.PHONY : Builder/Casa.i
+
+# target to preprocess a source file
+Builder/Casa.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_extraclase_2.dir\build.make CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.i
+.PHONY : Builder/Casa.cpp.i
+
+Builder/Casa.s: Builder/Casa.cpp.s
+
+.PHONY : Builder/Casa.s
+
+# target to generate assembly for a file
+Builder/Casa.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_extraclase_2.dir\build.make CMakeFiles/Tarea_extraclase_2.dir/Builder/Casa.cpp.s
+.PHONY : Builder/Casa.cpp.s
+
+Builder/Director.obj: Builder/Director.cpp.obj
+
+.PHONY : Builder/Director.obj
+
+# target to build an object file
+Builder/Director.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_extraclase_2.dir\build.make CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.obj
+.PHONY : Builder/Director.cpp.obj
+
+Builder/Director.i: Builder/Director.cpp.i
+
+.PHONY : Builder/Director.i
+
+# target to preprocess a source file
+Builder/Director.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_extraclase_2.dir\build.make CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.i
+.PHONY : Builder/Director.cpp.i
+
+Builder/Director.s: Builder/Director.cpp.s
+
+.PHONY : Builder/Director.s
+
+# target to generate assembly for a file
+Builder/Director.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_extraclase_2.dir\build.make CMakeFiles/Tarea_extraclase_2.dir/Builder/Director.cpp.s
+.PHONY : Builder/Director.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -178,6 +259,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Tarea_extraclase_2
+	@echo ... Builder/Builder.obj
+	@echo ... Builder/Builder.i
+	@echo ... Builder/Builder.s
+	@echo ... Builder/Casa.obj
+	@echo ... Builder/Casa.i
+	@echo ... Builder/Casa.s
+	@echo ... Builder/Director.obj
+	@echo ... Builder/Director.i
+	@echo ... Builder/Director.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Extreme PC/Desktop/Marco/U III/Datos/Tarea extraclase 2/Builder/Builder.cpp">
+			<Option target="Tarea_extraclase_2"/>
+		</Unit>
+		<Unit filename="C:/Users/Extreme PC/Desktop/Marco/U III/Datos/Tarea extraclase 2/Builder/Builder.h">
+			<Option target="Tarea_extraclase_2"/>
+		</Unit>
+		<Unit filename="C:/Users/Extreme PC/Desktop/Marco/U III/Datos/Tarea extraclase 2/Builder/Casa.cpp">
+			<Option target="Tarea_extraclase_2"/>
+		</Unit>
+		<Unit filename="C:/Users/Extreme PC/Desktop/Marco/U III/Datos/Tarea extraclase 2/Builder/Casa.h">
+			<Option target="Tarea_extraclase_2"/>
+		</Unit>
+		<Unit filename="C:/Users/Extreme PC/Desktop/Marco/U III/Datos/Tarea extraclase 2/Builder/Director.cpp">
+			<Option target="Tarea_extraclase_2"/>
+		</Unit>
+		<Unit filename="C:/Users/Extreme PC/Desktop/Marco/U III/Datos/Tarea extraclase 2/Builder/Director.h">
+			<Option target="Tarea_extraclase_2"/>
+		</Unit>
 		<Unit filename="C:/Users/Extreme PC/Desktop/Marco/U III/Datos/Tarea extraclase 2/main.cpp">
 			<Option target="Tarea_extraclase_2"/>
 		</Unit>
