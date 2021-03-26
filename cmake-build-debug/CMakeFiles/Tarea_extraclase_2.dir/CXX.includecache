@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joel/Escritorio/Tarea_2_Datos_II/Facade/Facade.cpp
+Facade.h
+/home/joel/Escritorio/Tarea_2_Datos_II/Facade/Facade.h
+string
+/home/joel/Escritorio/Tarea_2_Datos_II/Facade/string
+
+/home/joel/Escritorio/Tarea_2_Datos_II/Facade/Facade.h
+User.h
+/home/joel/Escritorio/Tarea_2_Datos_II/Facade/User.h
+LogIn.h
+/home/joel/Escritorio/Tarea_2_Datos_II/Facade/LogIn.h
+
+/home/joel/Escritorio/Tarea_2_Datos_II/Facade/LogIn.h
+string
+-
+User.h
+/home/joel/Escritorio/Tarea_2_Datos_II/Facade/User.h
+
+/home/joel/Escritorio/Tarea_2_Datos_II/Facade/User.h
+iostream
+/home/joel/Escritorio/Tarea_2_Datos_II/Facade/iostream
+string
+/home/joel/Escritorio/Tarea_2_Datos_II/Facade/string
+
